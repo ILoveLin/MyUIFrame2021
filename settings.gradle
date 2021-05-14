@@ -1,3 +1,4 @@
+include ':libvlc'
 include ':umeng'
 include ':widget'
 include ':base'

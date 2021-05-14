@@ -86,6 +86,8 @@ dependencies {
     implementation project(':widget')
     // 友盟封装
     implementation project(':umeng')
+    // vlc封装
+    implementation project(':libvlc')
 
     // 权限请求框架：https://github.com/getActivity/XXPermissions
     implementation 'com.hjq:xxpermissions:9.8'

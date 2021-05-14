@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/base" />
+            <option value="$PROJECT_DIR$/libvlc" />
             <option value="$PROJECT_DIR$/umeng" />
             <option value="$PROJECT_DIR$/widget" />
           </set>
@@ -22,5 +23,6 @@
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
     </option>
+    <option name="offlineMode" value="true" />
   </component>
 </project>

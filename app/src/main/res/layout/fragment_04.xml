@@ -13,14 +13,13 @@
         app:backButton="false"
         app:title="@string/home_nav_me" />
     <TextView
+        android:layout_marginTop="10dp"
         android:id="@+id/tv_022"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="1dp"
-        android:background="@color/black"
+        android:background="@color/green"
         android:gravity="center"
-        android:text="04"
+        android:text="跳转VLC播放界面"
         android:textColor="@color/white"
         android:textSize="25dp" />
     <com.company.frame.widget.StatusLayout
