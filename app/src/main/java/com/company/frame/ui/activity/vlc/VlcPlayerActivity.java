@@ -359,7 +359,6 @@ public final class VlcPlayerActivity extends AppActivity {
             }
         });
     }
-
     private String currentTime = "0";
 
     /**
